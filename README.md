@@ -11,7 +11,7 @@ Interactive models I built for my complex analysis course, written in Python wit
 ### Interactive 3D model
 
 - **Fully 3D:** the sphere, the plane and the projection line are drawn in 3D space.
-- **Rotatable:** click and drag the plot to look at the sphere from any angle, and scroll to zoom.
+- **Rotatable:** click and drag the plot to look at the sphere from any angle, and right-click and drag to zoom.
 - **Live sliders:** move `Re(z)` and `Im(z)` to drag z around the plane. P, the line through N, and the readout update instantly.
 - **Live readout:** the top-left corner shows z, |z| and the coordinates of P, and maps P back to z with the inverse formula as a check.
 
